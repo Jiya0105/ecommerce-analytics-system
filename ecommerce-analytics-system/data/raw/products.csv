@@ -1,0 +1,101 @@
+product_id,product_name,category,price
+1,Laptop,Electronics,48431
+2,Smartphone,Electronics,11320
+3,Keyboard,Electronics,43378
+4,Mouse,Electronics,5757
+5,Headphones,Electronics,18798
+6,Monitor,Electronics,33980
+7,Tablet,Electronics,-43706
+8,Smart Watch,Electronics,41680
+9,Camera,Electronics,40783
+10,Speaker,Electronics,22166
+11,T-Shirt,Fashion,6320
+12,Jeans,Fashion,49426
+13,Jacket,Fashion,15592
+14,Shoes,Fashion,44292
+15,Sneakers,Fashion,-20543
+16,Watch,Fashion,14922
+17,Handbag,Fashion,13250
+18,Cap,Fashion,9856
+19,Dress,Fashion,1800
+20,Sweater,Fashion,3228
+21,Chair,Home,16246
+22,Table,Home,-31338
+23,Sofa,Home,40260
+24,Lamp,Home,4972
+25,Curtains,Home,30046
+26,Mattress,Home,27360
+27,Fan,Home,41472
+28,Cup Set,Home,37927
+29,Bottle,Home,12942
+30,Storage Box,Home,47277
+31,Python Book,Books,45836
+32,SQL Guide,Books,25364
+33,Data Science,Books,32599
+34,Machine Learning,Books,26391
+35,Algorithms,Books,16189
+36,Java Programming,Books,9871
+37,Operating System,Books,43195
+38,Networking,Books,45264
+39,DBMS,Books,563
+40,AI Basics,Books,49415
+41,Football,Sports,7185
+42,Cricket Bat,Sports,28062
+43,Basketball,Sports,14541
+44,Yoga Mat,Sports,11726
+45,Dumbbell,Sports,45807
+46,Badminton Racket,Sports,34144
+47,Tennis Ball,Sports,30644
+48,Helmet,Sports,3491
+49,Gloves,Sports,36730
+50,Skipping Rope,Sports,16531
+51,Smart Watch 18,Electronics,30650
+52,Gloves 77,Sports,20994
+53,AI Basics 93,Books,33281
+54,DBMS 58,Books,10630
+55,Networking 34,Books,49468
+56,Sneakers 99,Fashion,34363
+57,Machine Learning 36,Books,29027
+58,Headphones 31,Electronics,18007
+59,Mattress 70,Home,5480
+60,Jacket 30,Fashion,25302
+61,Shoes 9,Fashion,27388
+62,Java Programming 70,Books,30734
+63,Python Book 27,Books,27734
+64,AI Basics 90,Books,1480
+65,Tennis Ball 62,Sports,586
+66,Curtains 97,Home,25758
+67,DBMS 96,Books,48344
+68,Skipping Rope 29,Sports,32196
+69,Sneakers 56,Fashion,32027
+70,Tablet 44,Electronics,44035
+71,Data Science 60,Books,8564
+72,Gloves 4,Sports,26022
+73,Skipping Rope 85,Sports,1976
+74,Tablet 18,Electronics,30457
+75,T-Shirt 34,Fashion,25044
+76,Lamp 59,Home,21620
+77,Fan 36,Home,49483
+78,Algorithms 11,Books,31022
+79,Camera 7,Electronics,23135
+80,Jeans 100,Fashion,42913
+81,Laptop 32,Electronics,13265
+82,Speaker 20,Electronics,15833
+83,Cap 86,Fashion,7696
+84,Yoga Mat 60,Sports,46040
+85,Mattress 22,Home,39907
+86,Cricket Bat 100,Sports,10932
+87,Table 75,Home,1882
+88,Storage Box 87,Home,24796
+89,Machine Learning 10,Books,39003
+90,Jeans 90,Fashion,-19964
+91,Cricket Bat 73,Sports,2891
+92,Bottle 55,Home,43553
+93,Table 65,Home,42637
+94,Chair 54,Home,32325
+95,Tablet 47,Electronics,41853
+96,Data Science 56,Books,11743
+97,Dumbbell 79,Sports,35469
+98,Networking 56,Books,-48108
+99,Dumbbell 42,Sports,16288
+100,Headphones 58,Electronics,16181
